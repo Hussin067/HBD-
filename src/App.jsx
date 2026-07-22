@@ -144,6 +144,7 @@ export default function FaymBirthday() {
     { n: "04", title: "cece's interlude", id: "147TR5QZzxTnnwqltaRi4N" },
     { n: "05", title: "Find Your Love", id: "18PSaTJMLkFNWnW0NWdOAW" },
     { n: "06", title: "Normal girl", id: "5fQBa4wkmq28xpSLOQ202K" },
+    { n: "07", title: "Sunflower", id: "3KkXRkHbMCARz0aVfEt68P" },
   ];
   const [currentTrack, setCurrentTrack] = useState(tracklist[0]);
 
