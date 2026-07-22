@@ -140,11 +140,11 @@ export default function FaymBirthday() {
   const tracklist = [
     { n: "01", title: "Take Care", id: "124NFj84ppZ5pAxTuVQYCQ" },
     { n: "02", title: "Passionfruit", id: "5mCPDVBb16L4XQwDdbRUpz" },
-    { n: "03", title: "Flight's Booked", id: "6Yj7Zhxt73uvwFFvzQXdxO" },
-    { n: "04", title: "Unthinkable", id: "4o4wEDRqotccDTXiQ7TORu" },
+    { n: "03", title: "8teen", id: "5bgwqaRSS3M8WHWruHgSL5" },
+    { n: "04", title: "cece's interlude", id: "147TR5QZzxTnnwqltaRi4N" },
     { n: "05", title: "Find Your Love", id: "18PSaTJMLkFNWnW0NWdOAW" },
+    { n: "06", title: "Normal girl", id: "5fQBa4wkmq28xpSLOQ202K" },
   ];
-
   const [currentTrack, setCurrentTrack] = useState(tracklist[0]);
 
   return (
